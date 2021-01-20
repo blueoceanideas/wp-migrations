@@ -21,6 +21,5 @@
     }
   },
   "require": {
-    "wp-cli/wp-cli": "dev-master"
   }
 }
